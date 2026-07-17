@@ -51,4 +51,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0547-number-of-provinces) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
