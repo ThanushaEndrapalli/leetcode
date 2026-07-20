@@ -58,8 +58,21 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0007-reverse-integer) |
+| [0509-fibonacci-number](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0113-path-sum-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
