@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
@@ -66,6 +67,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -74,5 +76,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
