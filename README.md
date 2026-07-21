@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0322-coin-change) |
@@ -70,6 +71,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0322-coin-change) |
@@ -83,4 +85,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
