@@ -29,6 +29,7 @@
 | [0001-two-sum](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0283-move-zeroes) |
@@ -95,10 +96,15 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0704-binary-search) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
