@@ -33,6 +33,7 @@
 | [0283-move-zeroes](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,4 +95,8 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
