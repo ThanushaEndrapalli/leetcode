@@ -30,6 +30,7 @@
 | [0053-maximum-subarray](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0200-number-of-islands) |
+| [0283-move-zeroes](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0695-max-area-of-island) |
 ## Hash Table
@@ -89,4 +90,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/ThanushaEndrapalli/leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
